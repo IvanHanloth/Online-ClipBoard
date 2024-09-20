@@ -88,6 +88,9 @@ session、curl、fileinfo、ZipArchive、MySQL Native Driver
  - [ ] 文件直传优化
  - [ ] 增加邮箱验证
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=IvanHanloth/Easy-Send&type=Date)](https://star-history.com/#IvanHanloth/Easy-Send&Date)
 
 ## 联系作者
 
